@@ -1,11 +1,16 @@
 import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
 
-function App() {
+
+import './App.css';
+import {Content} from './Components/content/content'
+
+class App extends React.Component{
+  render(){
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        {/* <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -16,10 +21,13 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-        </a>
+        </a> */}
+        <Content />
       </header>
+      
     </div>
   );
+  }
 }
 
 export default App;

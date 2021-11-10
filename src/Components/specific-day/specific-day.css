@@ -1,0 +1,77 @@
+.icon {
+    content: url("https://media.giphy.com/media/PAbELXsl2P7mE/giphy.gif");
+    height: 40px;
+    width: 40px;
+}
+
+.down {
+    content: url("../../icons/down.png");
+}
+
+.downLeft {
+    content: url("../../icons/downLeft.png");
+}
+
+.downRight {
+    content: url("../../icons/downRight.png");
+}
+
+.left {
+    content: url("../../icons/left.png");
+}
+
+.right {
+    content: url("../../icons/right.png");
+}
+
+.up {
+    content: url("../../icons/up.png");
+}
+
+.upLeft {
+    content: url("../../icons/upLeft.png");
+}
+
+.upRight {
+    content: url("../../icons/upRight.png");
+}
+
+.Snow {
+    content: url('https://www.metaweather.com/static/img/weather/png/64/sn.png');
+}
+
+.Sleet {
+    content: url('https://www.metaweather.com/static/img/weather/png/64/sl.png');
+}
+
+.Thunderstorm {
+    content: url('https://www.metaweather.com/static/img/weather/png/64/t.png');
+}
+
+.Heavy_Rain {
+    content: url('https://www.metaweather.com/static/img/weather/png/64/hr.png');
+}
+
+.Light_Rain {
+    content: url('https://www.metaweather.com/static/img/weather/png/64/lr.png');
+}
+
+.Showers {
+    content: url('https://www.metaweather.com/static/img/weather/png/64/s.png');
+}
+
+.Heavy_Cloud {
+    content: url('https://www.metaweather.com/static/img/weather/png/64/hc.png');
+}
+
+.Light_Cloud {
+    content: url('https://www.metaweather.com/static/img/weather/png/64/lc.png');
+}
+
+.Clear {
+    content: url('https://www.metaweather.com/static/img/weather/png/64/c.png');
+}
+
+.Hail {
+    content: url('https://www.metaweather.com/static/img/weather/png/64/h.png');
+}

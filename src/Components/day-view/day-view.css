@@ -1,0 +1,25 @@
+.btn-back {
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid #e1e5e7;
+    color: white;
+    padding: 10px 24px;
+    cursor: pointer;
+    text-decoration: auto;
+    content: "";
+    clear: both;
+    display: table;
+    border-right: none;
+    text-decoration: none;
+}
+
+.btn-back-wrap {
+    height: 60px;
+    content: url("../../icons/back-button.png");
+}
+
+.row {
+    display: table-cell;
+    padding: 65px;
+    font-size: xx-large;
+}

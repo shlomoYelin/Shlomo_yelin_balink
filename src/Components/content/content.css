@@ -1,0 +1,22 @@
+.routerContent {
+    font-family: system-ui;
+}
+
+.daysTimes {
+    font-family: cursive;
+    display: inline-table;
+    position: absolute;
+    right: 80px;
+}
+
+.titel {
+    display: inline-block;
+    font-family: monospace;
+    margin-left: 50px;
+    
+}
+
+a {
+    text-decoration: none;
+}
+

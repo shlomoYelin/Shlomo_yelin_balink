@@ -1,0 +1,13 @@
+.select-city {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.span-select {
+    margin-right: 5px;
+}
+
+.select-input {
+    border-radius: 5px;
+    height: 25px;
+}
